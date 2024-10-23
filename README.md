@@ -1,7 +1,7 @@
 ## 👋 Hi there 👋
 
 ## ✨ About Me ✨
-I am a data analyst with a background in customer success and project management, passionate about translating data into business decisions. I am actively pursuing a career in data analysis, and this repository highlights projects that demonstrate my skills in Python, SQL, Tableau, and other data analysis tools.
+I am a data analyst with a background in customer success and project management, passionate about translating data into business decisions. I am actively pursuing a career in data analysis, and this repository will highlight projects that demonstrate my skills in Python, SQL, Tableau, and other data analysis tools.
 
 ## 🔭 Working On 🔭
 - Setting up this site
